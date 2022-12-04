@@ -1,0 +1,30 @@
+.home-hero-section {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    padding: 50px;
+    background-color: #4f4f4f;
+    color: white;
+}
+
+.home-hero-section-p {
+    width: 50%;
+    padding: 10px;
+}
+
+.home-hero-section-p1 {
+    margin: auto;
+}
+
+@media (max-width: 900px) {
+    .home-hero-section {
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    .home-hero-section-p {
+        width: 100%;
+    }
+    .home-hero-section-p2 {
+        padding-top: 20px;
+    }
+}

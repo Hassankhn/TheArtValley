@@ -1,0 +1,59 @@
+.shopify-section {
+    background-color: #0f0021;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+  }
+  .item-2{
+    display: flex;
+    justify-content: center;
+    color: #ffff;
+    
+  }
+  .ju{
+    display: flex;
+    justify-content: end;
+  }
+  ul{
+      list-style: none outside;
+  }
+  .mw{
+    margin-right:2%;
+    color: #ffff;
+  }
+  /* font-family: 'Montserrat', sans-serif; */
+  h2{
+    font-family: 'Montserrat',;
+    font-size: 22px;
+    line-height: 20.6px;
+    color: #ffff;
+  
+  }
+  .input-group-field{
+    background-color: rgb(245, 245, 245, 245);
+  }
+  .ghgk{
+   margin-top: 2%;
+   margin-bottom: 2%;
+  }
+  .group{
+    box-shadow: none !important;
+    border: 1px solid rgb(99,99,99);
+  }
+  .rt{
+    color: #ffff;
+  }
+  .bottom{
+    margin-bottom: 0%;
+  }
+  .ghh{
+    margin-bottom: 0%;
+  }
+  .parg{
+    color: #f5f5f5;
+  }
+  .lowerbottom{
+    background-color: lightgrey;
+    text-align: center;
+    width: 100%;
+}

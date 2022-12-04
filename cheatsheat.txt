@@ -1,0 +1,6 @@
+when you pass some data to a componenet you will use propos for example
+to pass the array data deaclred in app.js to the comonent productlist.js you will use propos
+
+propos are to use propertyies inside a componenet.
+propos are read only componenets you can't change the propos
+you can only read the data but and use it but you can't change the data.

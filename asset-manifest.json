@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheArtValley/static/css/main.882f964e.css",
+    "main.js": "/TheArtValley/static/js/main.d16f9b73.js",
+    "index.html": "/TheArtValley/index.html",
+    "main.882f964e.css.map": "/TheArtValley/static/css/main.882f964e.css.map",
+    "main.d16f9b73.js.map": "/TheArtValley/static/js/main.d16f9b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.882f964e.css",
+    "static/js/main.d16f9b73.js"
+  ]
+}
